@@ -1,0 +1,6 @@
+.godot/
+.DS_Store
+Thumbs.db
+*~
+*.swp
+export_presets.cfg

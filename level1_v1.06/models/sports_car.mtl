@@ -1,0 +1,15 @@
+newmtl paint
+Kd 0.72 0.74 0.76
+Ks 0.55 0.55 0.55
+Ns 80
+newmtl glass
+Kd 0.15 0.22 0.28
+d 0.45
+Ks 0.8 0.8 0.8
+Ns 200
+newmtl headlight
+Kd 0.95 0.95 0.9
+Ks 0.4 0.4 0.4
+newmtl taillight
+Kd 0.7 0.05 0.05
+Ks 0.2 0.2 0.2
